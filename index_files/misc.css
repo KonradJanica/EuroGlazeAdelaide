@@ -15,3 +15,5 @@ html,body {
     height:100%;
     width:100%;
 }
+
+.project{opacity:0 !important}.reveal-animation{opacity:1 !important;transition:all 0.3s ease-in-out 0.5s}
