@@ -19,3 +19,5 @@ html,body {
 .project{opacity:0 !important}.reveal-animation{opacity:1 !important;transition:all 0.3s ease-in-out 0.5s}
 
 .menu__item__link.is-active{color:#fff;background-color:#212121;box-shadow:0 1px 2px darkgray;}
+
+.nav:before,.nav:after{content:initial !important;}
