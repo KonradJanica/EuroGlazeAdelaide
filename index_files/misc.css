@@ -7,8 +7,12 @@
     box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.17);
 }
 
-body {
+main {
     background-color:#f5f5f5;
+    background: -webkit-linear-gradient(to bottom right, #54c8f3, white, #ccde74, #54c8f3); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(to bottom right, #54c8f3, white, #ccde74, #54c8f3); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(to bottom right, #54c8f3, white, #ccde74, #54c8f3); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #54c8f3, white, #ccde74, #54c8f3); /* Standard syntax */
 }
 
 html,body {
@@ -17,3 +21,5 @@ html,body {
 }
 
 .project{opacity:0 !important}.reveal-animation{opacity:1 !important;transition:all 0.3s ease-in-out 0.5s}
+
+.menu__item__link.is-active{color:#fff;background-color:#212121;box-shadow:0 1px 2px darkgray;}
