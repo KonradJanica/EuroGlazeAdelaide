@@ -813,7 +813,7 @@ footer .brdr_bottom {
 	
 }
 
-@media screen and (max-width: 992) {
+@media screen and (max-width: 992px) {
     .abs.mright,.abs.mleft {
         bottom: 0px;
         line-height: 24px;
@@ -826,7 +826,8 @@ footer .brdr_bottom {
         padding: 20px;
     }
 }
-@media screen and (max-width: 960) {
+
+@media screen and (max-width: 960px) {
     .abs.mright,.abs.mleft {
         bottom: -60px;
     }
