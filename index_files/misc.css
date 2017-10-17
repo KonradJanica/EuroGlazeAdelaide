@@ -13,6 +13,9 @@ body {
 
 html,body {
     height:100%;
+}
+
+html,body,main,.outer-wrapper,section,.wrapper,.pagehead,#readlink {
     width:100%;
 }
 
@@ -21,3 +24,82 @@ html,body {
 .menu__item__link.is-active{color:#fff;background-color:#212121;box-shadow:0 1px 2px darkgray;}
 
 .nav:before,.nav:after{content:initial !important;}
+
+.vid {
+ z-index:100;
+ position:relative;
+}
+
+.card-shadow {
+ -webkit-box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.17);
+ -moz-box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.17);
+ box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.17);
+}
+
+.row.padT100 {
+    padding-top: 100px;
+}
+.row.padB100 {
+    padding-bottom: 100px;
+}
+
+#facts-image {
+    background-image:url("../assets/images/video-poster.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.facts-section {
+    width: 100%;
+    position: relative;
+}
+.facts-icon-box .icon {
+    font-size: 45px;
+    color: #fff;
+    -webkit-transition: all .80s ease-in-out;
+    -moz-transition: all 0.80s ease-in-out;
+    -o-transition: all 0.80s ease-in-out;
+    -ms-transition: all 0.80s ease-in-out;
+    transition: all 0.80s ease-in-out;
+}
+.facts h4 {
+    color: #fff;
+    text-transform: uppercase;
+    -webkit-transition: all .80s ease-in-out;
+    -moz-transition: all 0.80s ease-in-out;
+    -o-transition: all 0.80s ease-in-out;
+    -ms-transition: all 0.80s ease-in-out;
+    transition: all 0.80s ease-in-out;
+    font-size: 14px;
+}
+.facts h2 {
+    color: #fff;
+    -webkit-transition: all .80s ease-in-out;
+    -moz-transition: all 0.80s ease-in-out;
+    -o-transition: all 0.80s ease-in-out;
+    -ms-transition: all 0.80s ease-in-out;
+    transition: all 0.80s ease-in-out;
+    font-size: 18px;
+}
+span.counter {
+    font-size: 22px;
+}
+.facts {
+    border: 1px solid #fff;
+    width: 100%;
+    float: left;
+    margin-bottom: 10px;
+    text-align: center;
+    -webkit-transition: all .45s ease-in-out;
+    -moz-transition: all 0.45s ease-in-out;
+    -o-transition: all 0.45s ease-in-out;
+    -ms-transition: all 0.45s ease-in-out;
+    transition: all 0.45s ease-in-out;
+}
+.facts:hover {
+    background-color: #0db0ee;
+}
+.facts.green-hover:hover {
+    background-color: #a4b93e;
+}
