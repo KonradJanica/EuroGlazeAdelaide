@@ -44,7 +44,7 @@ html,body,main,.outer-wrapper,section,.wrapper,.pagehead,#readlink {
 }
 
 #facts-image {
-    background-image:url("../assets/images/video-poster.jpg");
+    background-image:url("../assets/images/hero2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -102,4 +102,17 @@ span.counter {
 }
 .facts.green-hover:hover {
     background-color: #a4b93e;
+}
+
+.image-parallax {
+    opacity: 0.5;
+}
+
+@media screen and (min-width: 768px) {
+    .image-parallax-right {
+        float:right !important;
+    }
+    .image-parallax {
+        opacity: 1;
+    }
 }
