@@ -7,6 +7,24 @@
     box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.17);
 }
 
+.dotpoints:before {
+    font-family: 'FontAwesome';
+    content: '\f00c';
+    margin:0 0.2em 0 -1.2em;
+}
+
+.no-top-shadow:before {
+    content: "";
+    position: absolute;
+    height:10px;
+    z-index: 9;
+    top: -5px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color:#f5f5f5;
+}
+
 body {
     background-color:#f5f5f5;
 }
