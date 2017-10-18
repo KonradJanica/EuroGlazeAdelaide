@@ -51,7 +51,7 @@ $(document).ready(function(){
 
         var contactUs = $('body>w-div:last>div');
         if (contactUs.size()) {
-            contactUs.css('bottom', '30px');
+            contactUs.css('bottom', '303px');
         } else {
             window.location.href = "contactus.html"
         }
