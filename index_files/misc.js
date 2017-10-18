@@ -44,5 +44,16 @@ $(window).scroll(function(){
 });
 
 $(document).ready(function(){
-    checkAnimation();
+    //checkAnimation();
+
+    $('a[href=#buynow]').on('click', function(e) {
+        e.preventDefault();
+
+        var contactUs = $('body>w-div:last>div');
+        if (contactUs.size()) {
+            contactUs.css('bottom', '30px');
+        } else {
+            window.location.href = "contactus.html"
+        }
+    });
 });

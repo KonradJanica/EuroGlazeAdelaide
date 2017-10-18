@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html class=" js flexbox flexboxlegacy canvas canvastext no-touch postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths placeholder cssclippathpolygon" lang="en" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="icon" type="image/png" href="index_files/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="index_files/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="index_files/favicon-16x16.png" sizes="16x16">
+        <link rel="shortcut icon" href="index_files/favicon.ico">
+        <meta name="msapplication-TileColor" content="#FFFFFF">
+        <meta name="msapplication-TileImage" content="index_files/mstile-144x144.png">
+        <meta name="msapplication-config" content="/index_files/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" type="image/x-icon" href="index_files/favicon.ico">
+
+        <title>Euro Glaze</title>
+        <meta name="description" content="Euro Glaze Adelaide provides superior quality, German designed double or triple glazed windows and doors to Australian homes">
+        <script src="./index_files/modernizr.js.download"></script>
+        <script type="text/javascript">
+            Modernizr.load({
+                test: Modernizr.input.placeholder,
+                nope: '/js/polyfills/placeholder/span.js'
+            });
+        </script>
+
+        <link rel="stylesheet" type="text/css" media="screen,print" href="./index_files/1494246345.css">
+        <link rel="stylesheet" type="text/css" href="./index_files/share_icons.css">
+        <link rel="stylesheet" type="text/css" href="./index_files/misc.css">
+    <script type="text/javascript" charset="UTF-8" src="./index_files/common.js.download"></script><script type="text/javascript" charset="UTF-8" src="./index_files/util.js.download"></script></head>
+
+<body class="not-logged-in module_case_studies action_index" style="">
+
+	<!--[if lte IE 8]><p class="chromeframe">This site is designed to perform best if your browser is up-to-date. <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+
+    <header id="header" class="header" style="visibility: inherit; opacity: 1;">
+    <nav class="nav">
+        <a href="#" class="logo">
+            <img class="icon icon--logo" src="./index_files/logo.PNG" />
+        </a>
+        <ul class="menu">
+            <li class="menu__item">
+                <a href="./home.html" class="menu__item__link">Home</a>
+            </li>
+            <li class="menu__item">
+                <a href="./windows.html" class="menu__item__link">Windows</a>
+            </li>
+            <li class="menu__item">
+                <a href="./doors.html" class="menu__item__link is-active">Doors</a>
+            </li>
+            <li class="menu__item">
+                <a href="./blinds.html" class="menu__item__link">Blinds</a>
+            </li>
+            <li class="menu__item">
+                <a href="./quote.html" class="menu__item__link menu__item__btn">Quote</a>
+            </li>
+            <li class="menu__item">
+                <a href="./contact_us.html" class="menu__item__link menu__item__btn">Contact us</a>
+            </li>
+        </ul>
+        <a class="menu-toggle" href="#">
+            <span class="menu-toggle__inner"></span>
+            <span class="menu-toggle__text">Toggle navigation</span>
+        </a>
+    </nav>
+</header>
+    <main class="main">
+       <div data-pjax="" style="opacity: 1;"><section data-fix="Work">
+    <div class="wrapper wrapper--m">
+        <div class="work grid grid--gutterless">
+                        
+                            <div class="work__item col--12 key-0 card">
+            
+                    <a class="project project--work image-parallax reveal delay-4 reveal--active" id="key-0" data-load="false">
+                        <div class="project__header">
+                            <div class="project__image">
+                                <div class="project__image__frame">
+                                    <div class="project__image__src" style="background-image: url(&quot;./images/doors/Photo 14.jpg&quot;); transform: translate(0%, -7.35069%) matrix(1, 0, 0, 1, 0, 0);"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="project__index" aria-hidden="true" style="transform: translate(0%, -36.4497%) matrix(1, 0, 0, 1, -30, 0);">A</p>
+                        <div class="project__info">
+                            <h2 class="project__title">Sliding Door Double Glazed White uPVC</h2>
+                            <p class="project__subtitle"></p>
+                        </div>
+                    </a>
+
+                            </div>
+            
+            
+                            <div class="work__item col--12 key-1 brochure">
+            
+                    <a class="project project--work reveal  reveal--active" id="key-1" href="./images/doors/brochures/Door Double Glazed Slide and Tilting.pdf" data-load="false">
+                        <img class="project__brochure__img" src="./images/doors/sliding_and_tilting_brochure.png"/>
+                        <div class="project__download__brochure">
+                            <i class="fa fa-download" aria-hidden="true"></i>
+                        </div>
+                        <div class="project__info">
+                            <h2 class="project__title">Door Double Glazed Slide and Tilting Brochure <div class="project__download__link"><i class="fa fa-download" aria-hidden="true"></i></div></h2>
+                            <p class="project__subtitle">Images: A</p>
+                        </div>
+                    </a>
+
+                            </div>
+            
+            
+                            <div class="work__item col--12 key-2 card">
+            
+                    <a class="project project--work image-parallax reveal  reveal--active" id="key-2" data-load="false">
+                        <div class="project__header">
+                            <div class="project__image">
+                                <div class="project__image__frame">
+                                    <div class="project__image__src" style="background-image: url(&quot;./images/doors/Photo 15.jpg&quot;); transform: translate(0%, -18.2249%) matrix(1, 0, 0, 1, 0, 0);"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="project__index" aria-hidden="true" style="transform: translate(0%, -36.4497%) matrix(1, 0, 0, 1, -30, 0);">B</p>
+                        <div class="project__info">
+                            <h2 class="project__title">Closed Sliding Door Double Glazed White uPVC</h2>
+                            <p class="project__subtitle"></p>
+                        </div>
+                    </a>
+
+                            </div>
+            
+            
+                            <div class="work__item col--12 key-4 brochure">
+                        
+                    <a class="project project--work reveal  reveal--active" id="key-4" href="./images/doors/brochures/Door Double Glazed Sliding.pdf" data-load="false">
+                        <img class="project__brochure__img" src="./images/doors/sliding_brochure.png"/>
+                        <div class="project__download__brochure">
+                            <i class="fa fa-download" aria-hidden="true"></i>
+                        </div>
+                        <div class="project__info">
+                            <h2 class="project__title"></h2>
+                            <h2 class="project__title">Door Double Glazed Sliding Brochure <div class="project__download__link"><i class="fa fa-download" aria-hidden="true"></i></div></h2>
+                            <p class="project__subtitle">Images: B</p>
+                        </div>
+                    </a>
+
+                            </div>
+            
+            
+                            <div class="work__item col--12 key-5 card">
+            
+                    <a class="project project--work image-parallax reveal  reveal--active" id="key-5" data-load="false">
+                        <div class="project__header">
+                            <div class="project__image">
+                                <div class="project__image__frame">
+                                    <div class="project__image__src" style="background-image: url(&quot;./images/doors/Photo 16.jpg&quot;); transform: translate(0%, -18.3857%) matrix(1, 0, 0, 1, 0, 0);"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="project__index" aria-hidden="true" style="transform: translate(0%, -36.7713%) matrix(1, 0, 0, 1, -30, 0);">C</p>
+                        <div class="project__info">
+                            <h2 class="project__title">Double Glazed White uPVC inward or outward door</h2>
+                            <p class="project__subtitle"></p>
+                        </div>
+                    </a>
+
+                            </div>
+            
+            
+                            <div class="work__item col--12 key-6 brochure">
+                        
+                    <a class="project project--work reveal  reveal--active" id="key-6" href="./images/doors/brochures/Door Double Glazed Inward or Outward.pdf" data-load="false">
+                        <img class="project__brochure__img" src="./images/doors/inward_or_outward.png"/>
+                        <div class="project__download__brochure">
+                            <i class="fa fa-download" aria-hidden="true"></i>
+                        </div>
+                        <div class="project__info">
+                            <h2 class="project__title">Door Double Glazed Inward or Outward Brochure <div class="project__download__link"><i class="fa fa-download" aria-hidden="true"></i></div></h2>
+                            <h2 class="project__title"></h2>
+                            <p class="project__subtitle">Images: C</p>
+                        </div>
+                    </a>
+
+                            </div>
+            
+            
+                            <div class="work__item col--work key-5 card">
+            
+                    <a class="project project--work image-parallax reveal  reveal--active" id="key-5" data-load="false">
+                        <div class="project__header">
+                            <div class="project__image">
+                                <div class="project__image__frame">
+                                    <div class="project__image__src" style="background-image: url(&quot;./images/doors/Photo 17.jpg&quot;); transform: translate(0%, -18.3857%) matrix(1, 0, 0, 1, 0, 0);"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="project__index" aria-hidden="true" style="transform: translate(0%, -36.7713%) matrix(1, 0, 0, 1, -30, 0);">D</p>
+                        <div class="project__info">
+                            <h2 class="project__title">Aluminum Covered uPVC inward or outward door</h2>
+                            <p class="project__subtitle"></p>
+                        </div>
+                    </a>
+
+                        </div>
+
+                            <div class="work__item col--work key-5 card">
+
+                    <a class="project project--work image-parallax reveal  reveal--active" id="key-5" data-load="false">
+                        <div class="project__header">
+                            <div class="project__image">
+                                <div class="project__image__frame">
+                                    <div class="project__image__src" style="background-image: url(&quot;./images/doors/Photo 18.jpg&quot;); transform: translate(0%, -18.3857%) matrix(1, 0, 0, 1, 0, 0);"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="project__index" aria-hidden="true" style="transform: translate(0%, -36.7713%) matrix(1, 0, 0, 1, -30, 0);">E</p>
+                        <div class="project__info">
+                            <h2 class="project__title">Insulated Door Panel Section</h2>
+                            <p class="project__subtitle"></p>
+                        </div>
+                    </a>
+
+                            </div>
+            
+            
+                            <div class="work__item col--12 key-5 card">
+
+                    <a class="project project--work image-parallax reveal  reveal--active" id="key-5" data-load="false">
+                        <div class="project__header">
+                            <div class="project__image">
+                                <div class="project__image__frame">
+                                    <div class="project__image__src" style="background-image: url(&quot;./images/doors/Photo 19.jpg&quot;); transform: translate(0%, -18.3857%) matrix(1, 0, 0, 1, 0, 0);"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="project__index" aria-hidden="true" style="transform: translate(0%, -36.7713%) matrix(1, 0, 0, 1, -30, 0);">F</p>
+                        <div class="project__info">
+                            <h2 class="project__title">Front Door Panel with Double Glazed</h2>
+                            <p class="project__subtitle"></p>
+                        </div>
+                    </a>
+
+                            </div>
+            
+            
+                            <div class="work__item col--12 key-7 brochure">
+                        
+                    <a class="project project--work reveal  reveal--active" id="key-7" href="./images/doors/Door Panel inward our outward.pdf" data-load="false">
+                        <img class="project__brochure__img" src="./images/doors/inward_our_outward.png"/>
+                        <div class="project__download__brochure">
+                            <i class="fa fa-download" aria-hidden="true"></i>
+                        </div>
+                        <div class="project__info">
+                            <h2 class="project__title">Door Panel Inward or Outward Brochure <div class="project__download__link"><i class="fa fa-download" aria-hidden="true"></i></div></h2>
+                            <p class="project__subtitle"></p>
+                        </div>
+                    </a>
+
+                            </div>
+            
+            
+                            <div class="work__item col--12 key-7 brochure">
+                        
+                    <a class="project project--work reveal  reveal--active" id="key-7" href="./images/doors/brochures/Door Panel Range.pdf" data-load="false">
+                        <img class="project__brochure__img" src="./images/doors/Door Panel Range Brochure.png"/>
+                        <div class="project__download__brochure">
+                            <i class="fa fa-download" aria-hidden="true"></i>
+                        </div>
+                        <div class="project__info">
+                            <h2 class="project__title">Door Panel Range Brochure <div class="project__download__link"><i class="fa fa-download" aria-hidden="true"></i></div></h2>
+                            <p class="project__subtitle"></p>
+                        </div>
+                    </a>
+
+                            </div>
+            
+            
+                            <div class="work__item col--12 key-7 brochure">
+                        
+                    <a class="project project--work reveal  reveal--active" id="key-7" href="./images/windows/brochures/Colour Range.pdf" data-load="false">
+                        <img class="project__brochure__img" src="./images/windows/colors_brochure.png"/>
+                        <div class="project__download__brochure">
+                            <i class="fa fa-download" aria-hidden="true"></i>
+                        </div>
+                        <div class="project__info">
+                            <h2 class="project__title">Color Range Brochure <div class="project__download__link"><i class="fa fa-download" aria-hidden="true"></i></div></h2>
+                            <p class="project__subtitle"></p>
+                        </div>
+                    </a>
+
+                            </div>
+
+                    </div>
+    </div>
+</section>
+
+<footer class="footer">
+    <div class="footer__container">
+        <div class="footer__phone">
+            Questions? Call 08-7070-1669
+        </div>
+        <div class="footer__center">
+            <a href="mailto:admin@euroglazeadelaide.com.au" target="_blank" class="share-btn email">
+                <i class="fa fa-envelope"></i>
+            </a>
+            <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://simplesharebuttons.com" target="_blank" class="share-btn linkedin">
+                <i class="fa fa-linkedin"></i>
+            </a>
+        </div>
+        <div class="footer__right">
+            Builders Lic: BLD 269370
+            <br>
+            ABN: 51 132 811 191
+        </div>
+    </div>
+    <div class="footer__copyright">
+        &copy; 2017 Euro Glass. All Rights Reserved
+    </div>
+</footer>
+</div>
+    </main>
+
+                <script type="text/javascript">
+            var InitialState = {"description":"Euro Glaze Adelaide provides superior quality, German designed double or triple glazed windows and doors to Australian homes","title":"EuroGlaze","nb:module":"pages","nb:action":"static","nb:body_class":"not-logged-in module_pages action_static"};
+        </script>
+        <script src="./index_files/js"></script>
+
+        <script type="text/javascript" src="./index_files/1494246345.js.download"></script>
+
+<script src="https://use.fontawesome.com/f6cc490022.js"></script>
+<script type="text/javascript" charset="UTF-8" src="./index_files/misc.js"></script>
+
+<script>
+  (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
+       t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
+         })(window, document, '_gscq','script','//widgets.getsitecontrol.com/105650/script.js');
+</script>
+
+</body><div></div><style id="stylish-7" class="stylish" type="text/css">::-webkit-scrollbar{
+    width:7px;
+    background-color:#f1f1f1;
+
+}
+
+body::-webkit-scrollbar{
+    width:8px!important;
+    background-color:#EEEEEE;
+}
+
+::-webkit-scrollbar-track{
+    border: 7px;
+}
+
+body::-webkit-scrollbar-track{
+    
+    border: none;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color:#424242!important;
+    border-radius:0px!important;
+    border: none;
+}
+::-webkit-scrollbar-thumb:hover{
+    background-color:#333!important;
+    
+}
+::-webkit-scrollbar-thumb:active{
+    background-color:#616161!important;
+    
+}</style></html>
