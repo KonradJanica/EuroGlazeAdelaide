@@ -122,13 +122,13 @@ body .nopad {
 }
 .pagehead h1 {
 	font-size:45px;
-	font-weight:400;
+	font-weight:lighter;
 }
 .pagehead h1 span {
 	font-weight:700;
 }
 .pagehead p {
-	font-size:18px;
+	font-size:24px;
 	font-weight:lighter;
 }
 
@@ -694,7 +694,7 @@ footer .brdr_bottom {
 	}
 
 	.card {
-		padding:20px;
+		padding:0;
 	}
 
 	.gallery-expander-contents {
@@ -831,4 +831,20 @@ footer .brdr_bottom {
     .abs.mright,.abs.mleft {
         bottom: -60px;
     }
+    /*.pagehead p,body,p {
+        font-size: 24px;
+    }
+    .link {
+        font-size: 24px;
+    }
+    h3 {
+        font-size: 34px;
+    }
+    .spec h5,.spec p,.box.big p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .pagehead h1 {
+        font-size: 90px;
+    }*/
 }
