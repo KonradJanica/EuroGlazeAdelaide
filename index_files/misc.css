@@ -7,6 +7,14 @@
     box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.17);
 }
 
+p#pagehead-points {
+    font-size:16px;
+}
+
+p#pagehead-points i {
+    font-size:10px;
+}
+
 .dotpoints:before {
     font-family: 'FontAwesome';
     content: '\f00c';
@@ -22,7 +30,12 @@
 }
 
 .card:first-of-type {
-    z-index: -1;
+    z-index: 5;
+}
+
+#hero-logo {
+    position: relative;
+    z-index: 10;
 }
 
 body {
