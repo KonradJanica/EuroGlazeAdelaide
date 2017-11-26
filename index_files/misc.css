@@ -7,6 +7,93 @@
     box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.17);
 }
 
+input.form-control:focus,textarea.form-control:focus {
+    background-color:rgba(255,255,255,0.9);
+    outline:0 none;
+    border:1px solid #ccc;
+    box-shadow:0 0 1px #212121;
+}
+
+input[type=submit] {
+    outline:0 none;
+}
+
+#warning-message {
+    color: #ff0000;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+}
+
+input[type=checkbox]:focus {
+    box-shadow:none;
+}
+
+input.form-control,textarea.form-control {
+    border:1px solid #ccc;
+    border-radius:0;
+    box-sizing:border-box;
+    line-height:normal;
+    font-family:sans-serif;
+    padding:12px;
+    background-color:rgba(255,255,255,0.7);
+    -webkit-transition: background .1s ease-in;
+    -moz-transition: background .1s ease-in;
+    -ms-transition: background .1s ease-in;
+    -o-transition: background .1s ease-in;
+    transition: background .1s ease-in;
+}
+
+input:disabled {
+    cursor:not-allowed !important;
+    background-color:rgba(255,255,255,0.7) !important;
+    color:#212121 !important;
+}
+
+.contact__btn {
+    border-width:2px;
+    border-style:solid;
+    border-color:#272727;
+    background-color:rgba(255,255,255,0.9);
+    color:#272727;
+    height:74px;
+    width:100%;
+    letter-spacing:0.2em;
+    -webkit-transition:0.1s background-color linear, 0.1s color linear;
+    -moz-transition: 0.1s background-color linear, 0.1s color linear;
+    -o-transition: 0.1s background-color linear, 0.1s color linear;
+    transition: 0.1s background-color linear, 0.1s color linear;
+}
+
+.contact__btn:hover {
+    background-color:#272727;
+    color:#fff;
+}
+
+.contact-us-form legend {
+    font-size: 12px;
+    margin: 6px 0 1px 0;
+    border-bottom: none;
+}
+
+.contact-us-form label {
+    font-size: 10px;
+}
+
+.contact-us {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.contact-us .fa {
+    font-size: 44px;
+    width: 100%;
+}
+
+.contact-us p {
+    font-size: 14px;
+}
+
 p#pagehead-points {
     font-size:16px;
 }
@@ -197,12 +284,12 @@ span.counter {
     }
 }
 
-@media all and (max-width: 818px) {
+@media all and (max-width: 868px) {
     .header {
         padding: 5px;
     }
     .icon--logo {
-        width: 100px;
+        width: 123px;
     }
     .menu-toggle {
         top: -3px;

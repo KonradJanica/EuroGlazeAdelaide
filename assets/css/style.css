@@ -14,6 +14,21 @@
     left: 70px;
 }
 
+#header {
+    padding-top: 1.25em;
+    padding-bottom: 1.25em;
+}
+
+nav.nav {
+    margin-bottom:2.5px;
+    padding-left:5px;
+    padding-right:5px;
+}
+
+a.menu__item__btn:hover,a.menu__item__btn:focus{
+    color: white;
+}
+
 /* Block Color Changes */
 
 .readmoreBlock {
@@ -200,6 +215,16 @@ p {
 	width:100%;
 	padding:50px 30px;
 	line-height:24px;
+}
+
+.box.big.fit {
+	padding:40px 10px;
+}
+
+@media screen and (max-width:992px) {
+    .box.big.fit {
+        padding:20px;
+    }
 }
 
 .box.big p {
