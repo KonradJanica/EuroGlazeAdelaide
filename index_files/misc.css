@@ -131,10 +131,6 @@ p#pagehead-points i {
     width: 100%;
 }
 
-#hero-logo-img {
-    margin: 50px auto 0 auto;
-}
-
 .card:first-of-type {
     z-index: 5;
 }
@@ -274,7 +270,7 @@ span.counter {
     }
 }
 
-@media all and (min-width: 992px) {
+@media all and (min-width: 1200px) {
     .image-parallax {
         display: block;
     }
